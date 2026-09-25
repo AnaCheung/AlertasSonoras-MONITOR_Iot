@@ -1,0 +1,3829 @@
+[
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 20:18:36",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 14.6,
+        "max": 71.4,
+        "prom": 44.71
+      },
+      "memoria": {
+        "n": 24,
+        "min": 91.1,
+        "max": 97.7,
+        "prom": 94.54
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 539.1,
+        "prom": 59.43
+      },
+      "disco": {
+        "n": 6,
+        "min": 49.5,
+        "max": 49.5,
+        "prom": 49.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 348,
+        "max": 350,
+        "prom": 349.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 86,
+        "max": 86,
+        "prom": 86.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 20:19:07",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 40.2,
+        "max": 81.2,
+        "prom": 54.49
+      },
+      "memoria": {
+        "n": 23,
+        "min": 91.2,
+        "max": 95.5,
+        "prom": 93.96
+      },
+      "red": {
+        "n": 23,
+        "min": 0.4,
+        "max": 395.1,
+        "prom": 128.73
+      },
+      "disco": {
+        "n": 6,
+        "min": 49.5,
+        "max": 49.5,
+        "prom": 49.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 348,
+        "max": 358,
+        "prom": 353.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 86,
+        "max": 87,
+        "prom": 86.17
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 20:19:38",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 25.5,
+        "max": 57.3,
+        "prom": 37.32
+      },
+      "memoria": {
+        "n": 24,
+        "min": 92.0,
+        "max": 96.5,
+        "prom": 94.69
+      },
+      "red": {
+        "n": 24,
+        "min": 0.1,
+        "max": 554.4,
+        "prom": 85.35
+      },
+      "disco": {
+        "n": 6,
+        "min": 49.5,
+        "max": 49.5,
+        "prom": 49.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 354,
+        "max": 356,
+        "prom": 355.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 87,
+        "max": 87,
+        "prom": 87.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 20:20:43",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 28.5,
+        "max": 45.2,
+        "prom": 35.09
+      },
+      "memoria": {
+        "n": 22,
+        "min": 92.1,
+        "max": 97.8,
+        "prom": 94.36
+      },
+      "red": {
+        "n": 22,
+        "min": 0.2,
+        "max": 85.3,
+        "prom": 10.15
+      },
+      "disco": {
+        "n": 5,
+        "min": 49.5,
+        "max": 49.5,
+        "prom": 49.5
+      },
+      "procesos": {
+        "n": 5,
+        "min": 356,
+        "max": 362,
+        "prom": 358.6
+      },
+      "bateria": {
+        "n": 5,
+        "min": 87,
+        "max": 87,
+        "prom": 87.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 20:21:14",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 24.6,
+        "max": 36.6,
+        "prom": 31.55
+      },
+      "memoria": {
+        "n": 23,
+        "min": 89.3,
+        "max": 94.7,
+        "prom": 91.91
+      },
+      "red": {
+        "n": 23,
+        "min": 0.1,
+        "max": 19.9,
+        "prom": 2.83
+      },
+      "disco": {
+        "n": 6,
+        "min": 49.5,
+        "max": 49.5,
+        "prom": 49.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 356,
+        "max": 363,
+        "prom": 357.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 87,
+        "max": 88,
+        "prom": 87.67
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 20:21:44",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 24.6,
+        "max": 40.3,
+        "prom": 32.33
+      },
+      "memoria": {
+        "n": 24,
+        "min": 92.5,
+        "max": 96.5,
+        "prom": 94.53
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 85.1,
+        "prom": 5.76
+      },
+      "disco": {
+        "n": 6,
+        "min": 49.5,
+        "max": 49.5,
+        "prom": 49.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 356,
+        "max": 357,
+        "prom": 356.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 88,
+        "max": 88,
+        "prom": 88.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 20:22:14",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 24.8,
+        "max": 47.2,
+        "prom": 34.7
+      },
+      "memoria": {
+        "n": 23,
+        "min": 90.2,
+        "max": 97.5,
+        "prom": 94.44
+      },
+      "red": {
+        "n": 23,
+        "min": 0.1,
+        "max": 228.6,
+        "prom": 29.4
+      },
+      "disco": {
+        "n": 6,
+        "min": 49.5,
+        "max": 49.5,
+        "prom": 49.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 357,
+        "max": 364,
+        "prom": 360.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 88,
+        "max": 88,
+        "prom": 88.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 20:22:44",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 25.9,
+        "max": 65.7,
+        "prom": 38.32
+      },
+      "memoria": {
+        "n": 24,
+        "min": 91.0,
+        "max": 96.1,
+        "prom": 93.83
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 523.3,
+        "prom": 106.1
+      },
+      "disco": {
+        "n": 6,
+        "min": 49.5,
+        "max": 49.6,
+        "prom": 49.52
+      },
+      "procesos": {
+        "n": 6,
+        "min": 366,
+        "max": 370,
+        "prom": 367.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 88,
+        "max": 89,
+        "prom": 88.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 20:23:14",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 26.6,
+        "max": 80.4,
+        "prom": 44.41
+      },
+      "memoria": {
+        "n": 23,
+        "min": 87.6,
+        "max": 95.2,
+        "prom": 90.43
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 38.9,
+        "prom": 9.33
+      },
+      "disco": {
+        "n": 6,
+        "min": 49.5,
+        "max": 49.6,
+        "prom": 49.52
+      },
+      "procesos": {
+        "n": 6,
+        "min": 354,
+        "max": 362,
+        "prom": 356.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 89,
+        "max": 89,
+        "prom": 89.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 20:23:45",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 36.7,
+        "max": 87.6,
+        "prom": 64.26
+      },
+      "memoria": {
+        "n": 23,
+        "min": 83.7,
+        "max": 96.1,
+        "prom": 88.47
+      },
+      "red": {
+        "n": 23,
+        "min": 0.2,
+        "max": 928.1,
+        "prom": 211.23
+      },
+      "disco": {
+        "n": 6,
+        "min": 49.5,
+        "max": 49.6,
+        "prom": 49.55
+      },
+      "procesos": {
+        "n": 6,
+        "min": 353,
+        "max": 362,
+        "prom": 356.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 89,
+        "max": 89,
+        "prom": 89.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 20:24:15",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 33.5,
+        "max": 61.3,
+        "prom": 45.36
+      },
+      "memoria": {
+        "n": 22,
+        "min": 84.9,
+        "max": 91.1,
+        "prom": 87.2
+      },
+      "red": {
+        "n": 22,
+        "min": 0.0,
+        "max": 20.9,
+        "prom": 3.6
+      },
+      "disco": {
+        "n": 6,
+        "min": 49.5,
+        "max": 49.5,
+        "prom": 49.5
+      },
+      "procesos": {
+        "n": 6,
+        "min": 350,
+        "max": 358,
+        "prom": 352.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 89,
+        "max": 90,
+        "prom": 89.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 20:24:46",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 32.0,
+        "max": 75.4,
+        "prom": 52.05
+      },
+      "memoria": {
+        "n": 23,
+        "min": 86.6,
+        "max": 96.0,
+        "prom": 92.67
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 98.7,
+        "prom": 28.1
+      },
+      "disco": {
+        "n": 6,
+        "min": 49.5,
+        "max": 49.6,
+        "prom": 49.58
+      },
+      "procesos": {
+        "n": 6,
+        "min": 352,
+        "max": 360,
+        "prom": 356.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 90,
+        "max": 90,
+        "prom": 90.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 20:25:54",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 29.0,
+        "max": 86.8,
+        "prom": 49.06
+      },
+      "memoria": {
+        "n": 22,
+        "min": 91.6,
+        "max": 96.6,
+        "prom": 93.05
+      },
+      "red": {
+        "n": 22,
+        "min": 0.0,
+        "max": 250.9,
+        "prom": 36.08
+      },
+      "disco": {
+        "n": 5,
+        "min": 49.6,
+        "max": 49.6,
+        "prom": 49.6
+      },
+      "procesos": {
+        "n": 5,
+        "min": 349,
+        "max": 356,
+        "prom": 351.4
+      },
+      "bateria": {
+        "n": 5,
+        "min": 90,
+        "max": 90,
+        "prom": 90.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:04:06",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 21.5,
+        "max": 47.0,
+        "prom": 30.95
+      },
+      "memoria": {
+        "n": 22,
+        "min": 84.4,
+        "max": 97.9,
+        "prom": 92.24
+      },
+      "red": {
+        "n": 22,
+        "min": 0.0,
+        "max": 112.0,
+        "prom": 11.83
+      },
+      "disco": {
+        "n": 5,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 5,
+        "min": 360,
+        "max": 367,
+        "prom": 363.8
+      },
+      "bateria": {
+        "n": 5,
+        "min": 31,
+        "max": 31,
+        "prom": 31.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:04:36",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 11.2,
+        "max": 43.6,
+        "prom": 23.3
+      },
+      "memoria": {
+        "n": 23,
+        "min": 86.1,
+        "max": 92.1,
+        "prom": 88.95
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 286.5,
+        "prom": 17.55
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 361,
+        "max": 369,
+        "prom": 363.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 31,
+        "max": 32,
+        "prom": 31.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:05:06",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 9.9,
+        "max": 46.3,
+        "prom": 19.28
+      },
+      "memoria": {
+        "n": 23,
+        "min": 87.3,
+        "max": 92.7,
+        "prom": 89.54
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 27.5,
+        "prom": 4.17
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 362,
+        "max": 370,
+        "prom": 365.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 32,
+        "max": 32,
+        "prom": 32.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:05:36",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 17.6,
+        "max": 46.8,
+        "prom": 27.33
+      },
+      "memoria": {
+        "n": 23,
+        "min": 85.5,
+        "max": 96.9,
+        "prom": 91.24
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 165.7,
+        "prom": 11.36
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 367,
+        "prom": 363.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 32,
+        "max": 33,
+        "prom": 32.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:06:07",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 14.2,
+        "max": 48.1,
+        "prom": 23.18
+      },
+      "memoria": {
+        "n": 22,
+        "min": 89.7,
+        "max": 96.4,
+        "prom": 93.25
+      },
+      "red": {
+        "n": 22,
+        "min": 0.0,
+        "max": 69.2,
+        "prom": 12.07
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 366,
+        "prom": 361.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 33,
+        "max": 33,
+        "prom": 33.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:06:37",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 15.9,
+        "max": 53.6,
+        "prom": 26.24
+      },
+      "memoria": {
+        "n": 24,
+        "min": 92.9,
+        "max": 96.1,
+        "prom": 94.81
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 139.6,
+        "prom": 23.47
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 359,
+        "prom": 358.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 33,
+        "max": 34,
+        "prom": 33.67
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:07:08",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 15.5,
+        "max": 38.5,
+        "prom": 23.39
+      },
+      "memoria": {
+        "n": 24,
+        "min": 93.4,
+        "max": 96.6,
+        "prom": 94.89
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 114.6,
+        "prom": 14.07
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 356,
+        "max": 359,
+        "prom": 357.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 34,
+        "max": 34,
+        "prom": 34.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:07:39",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 16.9,
+        "max": 46.1,
+        "prom": 29.98
+      },
+      "memoria": {
+        "n": 23,
+        "min": 93.6,
+        "max": 96.4,
+        "prom": 95.24
+      },
+      "red": {
+        "n": 23,
+        "min": 0.1,
+        "max": 72.9,
+        "prom": 22.56
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 356,
+        "max": 357,
+        "prom": 356.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 34,
+        "max": 35,
+        "prom": 34.67
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:08:10",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 16.3,
+        "max": 42.4,
+        "prom": 27.44
+      },
+      "memoria": {
+        "n": 23,
+        "min": 91.9,
+        "max": 96.3,
+        "prom": 94.82
+      },
+      "red": {
+        "n": 23,
+        "min": 0.1,
+        "max": 82.3,
+        "prom": 11.68
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 356,
+        "max": 366,
+        "prom": 359.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 35,
+        "max": 35,
+        "prom": 35.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:08:40",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 17.8,
+        "max": 46.8,
+        "prom": 27.84
+      },
+      "memoria": {
+        "n": 23,
+        "min": 88.7,
+        "max": 96.8,
+        "prom": 93.4
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 38.2,
+        "prom": 8.13
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 367,
+        "prom": 362.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 35,
+        "max": 36,
+        "prom": 35.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:09:11",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 17.8,
+        "max": 45.6,
+        "prom": 30.11
+      },
+      "memoria": {
+        "n": 23,
+        "min": 85.8,
+        "max": 96.7,
+        "prom": 91.2
+      },
+      "red": {
+        "n": 23,
+        "min": 0.1,
+        "max": 43.4,
+        "prom": 12.32
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 368,
+        "prom": 363.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 36,
+        "max": 36,
+        "prom": 36.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:09:43",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 12.4,
+        "max": 32.9,
+        "prom": 21.39
+      },
+      "memoria": {
+        "n": 24,
+        "min": 83.8,
+        "max": 92.7,
+        "prom": 87.64
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 113.6,
+        "prom": 8.05
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 366,
+        "prom": 361.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 36,
+        "max": 37,
+        "prom": 36.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:10:13",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 16.3,
+        "max": 37.6,
+        "prom": 25.14
+      },
+      "memoria": {
+        "n": 24,
+        "min": 87.7,
+        "max": 94.2,
+        "prom": 90.46
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 24.8,
+        "prom": 4.85
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 365,
+        "prom": 360.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 37,
+        "max": 37,
+        "prom": 37.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:10:45",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 12.0,
+        "max": 32.0,
+        "prom": 19.1
+      },
+      "memoria": {
+        "n": 24,
+        "min": 87.2,
+        "max": 90.7,
+        "prom": 88.34
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 33.2,
+        "prom": 2.81
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 359,
+        "prom": 358.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 37,
+        "max": 38,
+        "prom": 37.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:11:15",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 14.0,
+        "max": 31.3,
+        "prom": 19.64
+      },
+      "memoria": {
+        "n": 24,
+        "min": 87.9,
+        "max": 89.6,
+        "prom": 88.7
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 34.1,
+        "prom": 4.34
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 359,
+        "prom": 358.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 38,
+        "max": 38,
+        "prom": 38.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:11:46",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.3,
+        "max": 28.4,
+        "prom": 19.78
+      },
+      "memoria": {
+        "n": 24,
+        "min": 88.8,
+        "max": 90.0,
+        "prom": 89.59
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 72.9,
+        "prom": 4.81
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 360,
+        "prom": 358.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 38,
+        "max": 39,
+        "prom": 38.67
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:12:17",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 12.6,
+        "max": 32.3,
+        "prom": 19.58
+      },
+      "memoria": {
+        "n": 24,
+        "min": 88.8,
+        "max": 90.8,
+        "prom": 89.65
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 48.5,
+        "prom": 5.45
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 357,
+        "max": 359,
+        "prom": 357.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 39,
+        "max": 39,
+        "prom": 39.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:12:47",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 13.9,
+        "max": 47.8,
+        "prom": 25.86
+      },
+      "memoria": {
+        "n": 22,
+        "min": 90.9,
+        "max": 96.1,
+        "prom": 94.11
+      },
+      "red": {
+        "n": 22,
+        "min": 0.0,
+        "max": 115.0,
+        "prom": 24.73
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 365,
+        "prom": 363.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 39,
+        "max": 40,
+        "prom": 39.67
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:13:18",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 17.0,
+        "max": 52.6,
+        "prom": 28.36
+      },
+      "memoria": {
+        "n": 23,
+        "min": 88.5,
+        "max": 96.8,
+        "prom": 92.29
+      },
+      "red": {
+        "n": 23,
+        "min": 0.1,
+        "max": 125.6,
+        "prom": 22.4
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 365,
+        "prom": 360.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 40,
+        "max": 40,
+        "prom": 40.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:13:49",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 13.8,
+        "max": 52.5,
+        "prom": 24.74
+      },
+      "memoria": {
+        "n": 23,
+        "min": 88.2,
+        "max": 95.6,
+        "prom": 92.34
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 46.6,
+        "prom": 10.23
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.3,
+        "prom": 50.23
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 366,
+        "prom": 362.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 40,
+        "max": 41,
+        "prom": 40.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:14:20",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 13.6,
+        "max": 58.1,
+        "prom": 27.98
+      },
+      "memoria": {
+        "n": 22,
+        "min": 86.6,
+        "max": 96.5,
+        "prom": 91.79
+      },
+      "red": {
+        "n": 22,
+        "min": 0.1,
+        "max": 181.0,
+        "prom": 27.71
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 361,
+        "max": 368,
+        "prom": 364.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 41,
+        "max": 41,
+        "prom": 41.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:14:51",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 18.2,
+        "max": 45.1,
+        "prom": 29.94
+      },
+      "memoria": {
+        "n": 22,
+        "min": 90.8,
+        "max": 96.3,
+        "prom": 93.67
+      },
+      "red": {
+        "n": 22,
+        "min": 0.1,
+        "max": 64.9,
+        "prom": 11.03
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 361,
+        "max": 367,
+        "prom": 363.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 41,
+        "max": 42,
+        "prom": 41.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:15:21",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 16.0,
+        "max": 53.9,
+        "prom": 24.83
+      },
+      "memoria": {
+        "n": 24,
+        "min": 87.4,
+        "max": 95.1,
+        "prom": 90.59
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 36.5,
+        "prom": 5.3
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 367,
+        "prom": 360.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 42,
+        "max": 42,
+        "prom": 42.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:15:52",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 16.2,
+        "max": 47.6,
+        "prom": 24.3
+      },
+      "memoria": {
+        "n": 24,
+        "min": 88.0,
+        "max": 95.7,
+        "prom": 91.78
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 42.9,
+        "prom": 7.9
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 367,
+        "prom": 361.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 42,
+        "max": 43,
+        "prom": 42.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:16:24",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 16.9,
+        "max": 51.0,
+        "prom": 29.05
+      },
+      "memoria": {
+        "n": 24,
+        "min": 90.6,
+        "max": 95.9,
+        "prom": 93.77
+      },
+      "red": {
+        "n": 24,
+        "min": 0.1,
+        "max": 84.5,
+        "prom": 18.7
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 366,
+        "prom": 361.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 43,
+        "max": 43,
+        "prom": 43.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:16:54",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 14.2,
+        "max": 40.0,
+        "prom": 26.68
+      },
+      "memoria": {
+        "n": 24,
+        "min": 87.2,
+        "max": 95.7,
+        "prom": 89.35
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 36.1,
+        "prom": 8.16
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 367,
+        "prom": 361.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 43,
+        "max": 44,
+        "prom": 43.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:17:25",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.5,
+        "max": 42.9,
+        "prom": 25.96
+      },
+      "memoria": {
+        "n": 24,
+        "min": 87.8,
+        "max": 98.6,
+        "prom": 91.33
+      },
+      "red": {
+        "n": 24,
+        "min": 0.2,
+        "max": 148.7,
+        "prom": 23.38
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 366,
+        "prom": 360.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 44,
+        "max": 44,
+        "prom": 44.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:17:56",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 15.8,
+        "max": 39.1,
+        "prom": 25.69
+      },
+      "memoria": {
+        "n": 24,
+        "min": 93.9,
+        "max": 97.8,
+        "prom": 95.33
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 168.6,
+        "prom": 13.21
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 365,
+        "prom": 361.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 44,
+        "max": 45,
+        "prom": 44.17
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:18:27",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 19.3,
+        "max": 42.5,
+        "prom": 25.7
+      },
+      "memoria": {
+        "n": 23,
+        "min": 89.5,
+        "max": 96.3,
+        "prom": 92.94
+      },
+      "red": {
+        "n": 23,
+        "min": 0.1,
+        "max": 52.2,
+        "prom": 11.53
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 365,
+        "prom": 360.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 45,
+        "max": 45,
+        "prom": 45.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:18:58",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 23.7,
+        "max": 44.6,
+        "prom": 32.66
+      },
+      "memoria": {
+        "n": 22,
+        "min": 89.4,
+        "max": 97.8,
+        "prom": 94.73
+      },
+      "red": {
+        "n": 22,
+        "min": 0.1,
+        "max": 24.3,
+        "prom": 7.81
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 366,
+        "prom": 360.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 45,
+        "max": 45,
+        "prom": 45.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:19:29",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 11.1,
+        "max": 70.5,
+        "prom": 34.53
+      },
+      "memoria": {
+        "n": 22,
+        "min": 84.6,
+        "max": 92.6,
+        "prom": 88.72
+      },
+      "red": {
+        "n": 22,
+        "min": 0.0,
+        "max": 42.5,
+        "prom": 7.46
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 368,
+        "prom": 362.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 46,
+        "max": 46,
+        "prom": 46.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:20:00",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 14.3,
+        "max": 53.3,
+        "prom": 23.26
+      },
+      "memoria": {
+        "n": 24,
+        "min": 83.7,
+        "max": 91.7,
+        "prom": 88.34
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 60.7,
+        "prom": 5.73
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 368,
+        "prom": 364.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 46,
+        "max": 46,
+        "prom": 46.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:20:30",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 15.8,
+        "max": 45.6,
+        "prom": 26.34
+      },
+      "memoria": {
+        "n": 24,
+        "min": 87.4,
+        "max": 94.3,
+        "prom": 90.17
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 122.9,
+        "prom": 14.41
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 361,
+        "prom": 360.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 46,
+        "max": 47,
+        "prom": 46.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:21:01",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 14.0,
+        "max": 63.6,
+        "prom": 27.21
+      },
+      "memoria": {
+        "n": 24,
+        "min": 89.5,
+        "max": 94.6,
+        "prom": 93.25
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 69.0,
+        "prom": 7.85
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 368,
+        "prom": 361.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 47,
+        "max": 47,
+        "prom": 47.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:21:33",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 15.1,
+        "max": 47.6,
+        "prom": 24.85
+      },
+      "memoria": {
+        "n": 24,
+        "min": 93.3,
+        "max": 95.5,
+        "prom": 94.67
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 52.5,
+        "prom": 5.95
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 365,
+        "prom": 360.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 47,
+        "max": 48,
+        "prom": 47.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:22:03",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 15.7,
+        "max": 41.1,
+        "prom": 25.16
+      },
+      "memoria": {
+        "n": 24,
+        "min": 91.5,
+        "max": 96.8,
+        "prom": 94.09
+      },
+      "red": {
+        "n": 24,
+        "min": 0.2,
+        "max": 74.1,
+        "prom": 18.23
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 360,
+        "prom": 359.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 48,
+        "max": 48,
+        "prom": 48.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:22:34",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.2,
+        "max": 63.5,
+        "prom": 30.03
+      },
+      "memoria": {
+        "n": 24,
+        "min": 91.2,
+        "max": 95.2,
+        "prom": 92.94
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 94.8,
+        "prom": 17.95
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.3,
+        "prom": 50.3
+      },
+      "procesos": {
+        "n": 6,
+        "min": 357,
+        "max": 365,
+        "prom": 361.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 48,
+        "max": 49,
+        "prom": 48.67
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:23:04",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 22.6,
+        "max": 54.3,
+        "prom": 30.67
+      },
+      "memoria": {
+        "n": 23,
+        "min": 88.6,
+        "max": 95.3,
+        "prom": 89.98
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 149.1,
+        "prom": 19.32
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.3,
+        "max": 50.4,
+        "prom": 50.32
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 366,
+        "prom": 359.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 49,
+        "max": 49,
+        "prom": 49.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:23:34",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 14.1,
+        "max": 45.0,
+        "prom": 28.29
+      },
+      "memoria": {
+        "n": 24,
+        "min": 87.3,
+        "max": 91.6,
+        "prom": 89.65
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 248.1,
+        "prom": 19.38
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.6,
+        "prom": 50.38
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 359,
+        "prom": 358.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 49,
+        "max": 50,
+        "prom": 49.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:24:06",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 14.1,
+        "max": 57.4,
+        "prom": 26.25
+      },
+      "memoria": {
+        "n": 24,
+        "min": 85.3,
+        "max": 94.6,
+        "prom": 90.2
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 158.5,
+        "prom": 20.28
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 366,
+        "prom": 361.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 50,
+        "max": 50,
+        "prom": 50.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:24:37",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.9,
+        "max": 38.7,
+        "prom": 22.37
+      },
+      "memoria": {
+        "n": 24,
+        "min": 90.2,
+        "max": 93.9,
+        "prom": 91.76
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 57.3,
+        "prom": 8.44
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 361,
+        "max": 368,
+        "prom": 363.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 50,
+        "max": 51,
+        "prom": 50.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:25:08",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 15.0,
+        "max": 49.9,
+        "prom": 24.05
+      },
+      "memoria": {
+        "n": 24,
+        "min": 89.1,
+        "max": 95.1,
+        "prom": 91.2
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 79.0,
+        "prom": 7.4
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 368,
+        "prom": 363.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 51,
+        "max": 51,
+        "prom": 51.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:25:38",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 14.0,
+        "max": 38.1,
+        "prom": 21.22
+      },
+      "memoria": {
+        "n": 24,
+        "min": 88.2,
+        "max": 91.1,
+        "prom": 89.45
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 59.6,
+        "prom": 6.53
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 360,
+        "prom": 359.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 51,
+        "max": 52,
+        "prom": 51.17
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:26:10",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.0,
+        "max": 31.3,
+        "prom": 20.09
+      },
+      "memoria": {
+        "n": 24,
+        "min": 88.9,
+        "max": 90.7,
+        "prom": 89.95
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 50.5,
+        "prom": 5.13
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 360,
+        "prom": 359.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 52,
+        "max": 52,
+        "prom": 52.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:26:41",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 14.2,
+        "max": 33.2,
+        "prom": 20.46
+      },
+      "memoria": {
+        "n": 24,
+        "min": 90.4,
+        "max": 91.3,
+        "prom": 91.05
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 50.4,
+        "prom": 5.04
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 361,
+        "prom": 359.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 52,
+        "max": 53,
+        "prom": 52.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:27:12",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.5,
+        "max": 34.7,
+        "prom": 19.07
+      },
+      "memoria": {
+        "n": 24,
+        "min": 90.1,
+        "max": 91.9,
+        "prom": 91.02
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 96.3,
+        "prom": 10.45
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 364,
+        "prom": 361.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 53,
+        "max": 53,
+        "prom": 53.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:27:42",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.2,
+        "max": 34.2,
+        "prom": 20.8
+      },
+      "memoria": {
+        "n": 24,
+        "min": 90.5,
+        "max": 92.7,
+        "prom": 91.39
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 114.2,
+        "prom": 16.55
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 359,
+        "prom": 358.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 53,
+        "max": 54,
+        "prom": 53.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:28:13",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.5,
+        "max": 32.2,
+        "prom": 19.09
+      },
+      "memoria": {
+        "n": 24,
+        "min": 92.3,
+        "max": 93.1,
+        "prom": 92.56
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 72.4,
+        "prom": 6.63
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 359,
+        "prom": 358.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 54,
+        "max": 54,
+        "prom": 54.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:28:44",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.2,
+        "max": 39.1,
+        "prom": 21.82
+      },
+      "memoria": {
+        "n": 24,
+        "min": 92.6,
+        "max": 94.3,
+        "prom": 93.17
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 60.1,
+        "prom": 6.08
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 357,
+        "max": 359,
+        "prom": 357.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 54,
+        "max": 55,
+        "prom": 54.67
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:29:15",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 14.7,
+        "max": 50.5,
+        "prom": 28.14
+      },
+      "memoria": {
+        "n": 23,
+        "min": 81.4,
+        "max": 96.2,
+        "prom": 90.35
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 108.4,
+        "prom": 11.75
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 366,
+        "prom": 362.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 55,
+        "max": 55,
+        "prom": 55.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:29:46",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 13.8,
+        "max": 39.5,
+        "prom": 22.28
+      },
+      "memoria": {
+        "n": 23,
+        "min": 84.2,
+        "max": 92.3,
+        "prom": 88.47
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 71.1,
+        "prom": 8.96
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 367,
+        "prom": 361.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 55,
+        "max": 56,
+        "prom": 55.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:30:16",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.5,
+        "max": 47.5,
+        "prom": 23.88
+      },
+      "memoria": {
+        "n": 24,
+        "min": 87.8,
+        "max": 95.0,
+        "prom": 90.02
+      },
+      "red": {
+        "n": 24,
+        "min": 0.1,
+        "max": 59.2,
+        "prom": 6.55
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 358,
+        "max": 366,
+        "prom": 360.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 56,
+        "max": 56,
+        "prom": 56.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:30:47",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.9,
+        "max": 48.9,
+        "prom": 24.11
+      },
+      "memoria": {
+        "n": 24,
+        "min": 89.9,
+        "max": 96.9,
+        "prom": 92.36
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 118.6,
+        "prom": 13.65
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 367,
+        "prom": 361.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 56,
+        "max": 57,
+        "prom": 56.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:31:18",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 15.1,
+        "max": 39.8,
+        "prom": 21.62
+      },
+      "memoria": {
+        "n": 24,
+        "min": 91.0,
+        "max": 93.4,
+        "prom": 92.69
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 48.7,
+        "prom": 4.53
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 361,
+        "prom": 360.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 57,
+        "max": 57,
+        "prom": 57.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:31:49",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 14.1,
+        "max": 33.8,
+        "prom": 19.51
+      },
+      "memoria": {
+        "n": 24,
+        "min": 92.4,
+        "max": 94.5,
+        "prom": 92.84
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 89.2,
+        "prom": 5.85
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 362,
+        "prom": 361.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 57,
+        "max": 58,
+        "prom": 57.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:32:19",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 14.7,
+        "max": 27.8,
+        "prom": 19.43
+      },
+      "memoria": {
+        "n": 24,
+        "min": 92.8,
+        "max": 93.8,
+        "prom": 93.37
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 64.8,
+        "prom": 6.9
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 361,
+        "prom": 360.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 58,
+        "max": 58,
+        "prom": 58.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:32:50",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.5,
+        "max": 48.0,
+        "prom": 25.23
+      },
+      "memoria": {
+        "n": 24,
+        "min": 88.7,
+        "max": 97.1,
+        "prom": 92.56
+      },
+      "red": {
+        "n": 24,
+        "min": 0.1,
+        "max": 139.4,
+        "prom": 26.93
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 367,
+        "prom": 361.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 58,
+        "max": 59,
+        "prom": 58.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:33:21",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 12.9,
+        "max": 31.4,
+        "prom": 21.92
+      },
+      "memoria": {
+        "n": 23,
+        "min": 90.4,
+        "max": 94.5,
+        "prom": 91.58
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 83.6,
+        "prom": 9.17
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 368,
+        "prom": 362.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 59,
+        "max": 59,
+        "prom": 59.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:33:52",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 13.1,
+        "max": 39.4,
+        "prom": 24.29
+      },
+      "memoria": {
+        "n": 23,
+        "min": 87.4,
+        "max": 96.6,
+        "prom": 91.51
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 61.4,
+        "prom": 8.55
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 362,
+        "max": 370,
+        "prom": 364.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 59,
+        "max": 60,
+        "prom": 59.17
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:34:23",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 14.1,
+        "max": 50.6,
+        "prom": 27.47
+      },
+      "memoria": {
+        "n": 23,
+        "min": 81.3,
+        "max": 94.2,
+        "prom": 88.27
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 42.4,
+        "prom": 6.45
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 363,
+        "max": 370,
+        "prom": 366.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 60,
+        "max": 60,
+        "prom": 60.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:34:53",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 15.1,
+        "max": 51.1,
+        "prom": 25.71
+      },
+      "memoria": {
+        "n": 22,
+        "min": 87.5,
+        "max": 92.8,
+        "prom": 89.79
+      },
+      "red": {
+        "n": 22,
+        "min": 0.0,
+        "max": 65.8,
+        "prom": 12.07
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 361,
+        "max": 369,
+        "prom": 364.67
+      },
+      "bateria": {
+        "n": 6,
+        "min": 60,
+        "max": 60,
+        "prom": 60.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:35:24",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 12.2,
+        "max": 32.9,
+        "prom": 18.68
+      },
+      "memoria": {
+        "n": 24,
+        "min": 87.8,
+        "max": 92.8,
+        "prom": 89.5
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 70.6,
+        "prom": 4.94
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 361,
+        "max": 365,
+        "prom": 361.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 61,
+        "max": 61,
+        "prom": 61.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:35:55",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 14.4,
+        "max": 33.6,
+        "prom": 20.27
+      },
+      "memoria": {
+        "n": 24,
+        "min": 88.3,
+        "max": 92.7,
+        "prom": 90.97
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 78.5,
+        "prom": 6.85
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 361,
+        "max": 362,
+        "prom": 361.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 61,
+        "max": 61,
+        "prom": 61.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:36:26",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 12.8,
+        "max": 38.6,
+        "prom": 20.48
+      },
+      "memoria": {
+        "n": 24,
+        "min": 92.9,
+        "max": 94.4,
+        "prom": 94.05
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 68.6,
+        "prom": 10.57
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 362,
+        "prom": 359.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 62,
+        "max": 62,
+        "prom": 62.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:36:57",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 15.6,
+        "max": 54.9,
+        "prom": 26.26
+      },
+      "memoria": {
+        "n": 23,
+        "min": 91.6,
+        "max": 97.0,
+        "prom": 95.23
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 118.8,
+        "prom": 11.35
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 366,
+        "prom": 363.5
+      },
+      "bateria": {
+        "n": 6,
+        "min": 62,
+        "max": 62,
+        "prom": 62.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:37:28",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 15.4,
+        "max": 57.3,
+        "prom": 28.46
+      },
+      "memoria": {
+        "n": 23,
+        "min": 92.5,
+        "max": 96.4,
+        "prom": 94.28
+      },
+      "red": {
+        "n": 23,
+        "min": 0.1,
+        "max": 155.4,
+        "prom": 15.6
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 359,
+        "max": 366,
+        "prom": 362.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 62,
+        "max": 63,
+        "prom": 62.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:37:59",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 15.8,
+        "max": 37.9,
+        "prom": 23.33
+      },
+      "memoria": {
+        "n": 23,
+        "min": 93.4,
+        "max": 96.0,
+        "prom": 94.94
+      },
+      "red": {
+        "n": 23,
+        "min": 0.1,
+        "max": 70.0,
+        "prom": 8.52
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 363,
+        "max": 367,
+        "prom": 364.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 63,
+        "max": 63,
+        "prom": 63.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:38:29",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 14.5,
+        "max": 45.4,
+        "prom": 25.74
+      },
+      "memoria": {
+        "n": 22,
+        "min": 94.3,
+        "max": 97.3,
+        "prom": 95.6
+      },
+      "red": {
+        "n": 22,
+        "min": 0.0,
+        "max": 75.2,
+        "prom": 6.18
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 361,
+        "max": 368,
+        "prom": 363.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 63,
+        "max": 64,
+        "prom": 63.83
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:39:00",
+    "metricas": {
+      "cpu": {
+        "n": 21,
+        "min": 15.6,
+        "max": 56.4,
+        "prom": 29.63
+      },
+      "memoria": {
+        "n": 21,
+        "min": 89.1,
+        "max": 97.7,
+        "prom": 94.42
+      },
+      "red": {
+        "n": 21,
+        "min": 0.1,
+        "max": 106.1,
+        "prom": 13.32
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 361,
+        "max": 369,
+        "prom": 364.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 64,
+        "max": 64,
+        "prom": 64.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:39:31",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 14.3,
+        "max": 53.7,
+        "prom": 27.35
+      },
+      "memoria": {
+        "n": 22,
+        "min": 82.3,
+        "max": 95.2,
+        "prom": 87.32
+      },
+      "red": {
+        "n": 22,
+        "min": 0.0,
+        "max": 94.7,
+        "prom": 15.76
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 363,
+        "max": 371,
+        "prom": 366.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 64,
+        "max": 65,
+        "prom": 64.5
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:40:01",
+    "metricas": {
+      "cpu": {
+        "n": 22,
+        "min": 13.6,
+        "max": 49.8,
+        "prom": 21.97
+      },
+      "memoria": {
+        "n": 22,
+        "min": 85.2,
+        "max": 91.2,
+        "prom": 88.22
+      },
+      "red": {
+        "n": 22,
+        "min": 0.0,
+        "max": 73.5,
+        "prom": 7.54
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 362,
+        "max": 370,
+        "prom": 365.33
+      },
+      "bateria": {
+        "n": 6,
+        "min": 65,
+        "max": 65,
+        "prom": 65.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:40:32",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.0,
+        "max": 34.8,
+        "prom": 20.03
+      },
+      "memoria": {
+        "n": 24,
+        "min": 87.0,
+        "max": 91.2,
+        "prom": 89.34
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 72.9,
+        "prom": 5.35
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 362,
+        "max": 363,
+        "prom": 362.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 65,
+        "max": 66,
+        "prom": 65.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:41:03",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 13.2,
+        "max": 30.8,
+        "prom": 17.96
+      },
+      "memoria": {
+        "n": 24,
+        "min": 87.2,
+        "max": 89.4,
+        "prom": 88.86
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 85.3,
+        "prom": 6.07
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 361,
+        "max": 363,
+        "prom": 361.83
+      },
+      "bateria": {
+        "n": 6,
+        "min": 66,
+        "max": 66,
+        "prom": 66.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:41:34",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 12.5,
+        "max": 36.1,
+        "prom": 20.31
+      },
+      "memoria": {
+        "n": 24,
+        "min": 89.1,
+        "max": 94.1,
+        "prom": 90.03
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 87.2,
+        "prom": 5.45
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 360,
+        "max": 368,
+        "prom": 362.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 66,
+        "max": 67,
+        "prom": 66.33
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:42:05",
+    "metricas": {
+      "cpu": {
+        "n": 23,
+        "min": 13.9,
+        "max": 45.2,
+        "prom": 21.89
+      },
+      "memoria": {
+        "n": 23,
+        "min": 88.2,
+        "max": 93.6,
+        "prom": 90.32
+      },
+      "red": {
+        "n": 23,
+        "min": 0.0,
+        "max": 87.9,
+        "prom": 10.97
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 361,
+        "max": 369,
+        "prom": 363.0
+      },
+      "bateria": {
+        "n": 6,
+        "min": 67,
+        "max": 67,
+        "prom": 67.0
+      }
+    }
+  },
+  {
+    "nodo": "laptop-AnaCheung",
+    "ubicacion": "Trabajo en Clase N°3 - FISC",
+    "hora": "2026-09-24 23:42:35",
+    "metricas": {
+      "cpu": {
+        "n": 24,
+        "min": 12.7,
+        "max": 27.9,
+        "prom": 19.35
+      },
+      "memoria": {
+        "n": 24,
+        "min": 89.3,
+        "max": 92.1,
+        "prom": 90.0
+      },
+      "red": {
+        "n": 24,
+        "min": 0.0,
+        "max": 106.1,
+        "prom": 4.8
+      },
+      "disco": {
+        "n": 6,
+        "min": 50.2,
+        "max": 50.2,
+        "prom": 50.2
+      },
+      "procesos": {
+        "n": 6,
+        "min": 362,
+        "max": 363,
+        "prom": 362.17
+      },
+      "bateria": {
+        "n": 6,
+        "min": 67,
+        "max": 68,
+        "prom": 67.5
+      }
+    }
+  }
+]
